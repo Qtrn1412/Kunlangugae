@@ -121,7 +121,7 @@ class ModLanguage {
         id: "Ambil Harta Otomatis [F7]",
         ja: "自動で宝を拾うんや [F7]",
         ko: "자동 보물 선택 [F7]",
-        vi: "Tự Động Nhặt Phần Thưởng [F7]"
+        vi: "Tự động nhặt phần thưởng [F7]"
     },
     {
         Text: "TEXT_AUTO_ABSORB",
@@ -131,7 +131,7 @@ class ModLanguage {
         id: "Serap Echo Otomatis [F8]",
         ja: "自動エコー吸収 [F8]",
         ko: "자동 에코 흡수 [F8]",
-        vi: "Tự Động Hấp Thụ Echo [F8]"
+        vi: "Tự động nhặt Echo [F8]"
     },
     {
         Text: "TEXT_KILL_AURA",
@@ -161,7 +161,7 @@ class ModLanguage {
         id: "Tanpa Cooldown [F11]",
         ja: "クールダウンなしやで [F11]",
         ko: "쿨다운 없음 [F11]",
-        vi: "Không Thời Gian Hồi Chiêu [F11]"
+        vi: "Xóa thời gian hồi cchiêu [F11]"
     },
     {
         Text: "TEXT_PLAYER_SPEED",
@@ -181,7 +181,7 @@ class ModLanguage {
         id: "Kustom Teleport [INS]",
         ja: "てきとうな瞬間移動 [INS]",
         ko: "사용자 정의 텔레포트 [INS]",
-        vi: "Dịch Chuyển Tùy Chỉnh [INS]"
+        vi: "Dịch chuyển tùy chỉnh [INS]"
     },
     {
         Text: "TEXT_AUTO_LOOT",
@@ -191,7 +191,7 @@ class ModLanguage {
         id: "Otomatis Mengambil Barang [Num0]",
         ja: "自動小冊子の保存 [Num0]",
         ko: "자동 콜렉시 펜감빌 [Num0]",
-        vi: "bộ sưu tập tự động hóa [Num0]"
+        vi: "Tư động nhặt [Num0]"
     },
     {
         Text: "TEXT_CUSTOM_TP_STATE",
@@ -201,7 +201,7 @@ class ModLanguage {
         id: "Status Kustom Teleport [Insert]:",
         ja: "カスタムテレポートの状態 [Insert]",
         ko: "사용자 정의 텔레포트 상태 [Insert]:",
-        vi: "Trạng thái dịch chuyển [Insert]:"
+        vi: "File dịch chuyển tỳ chỉnhchỉnh[Insert]:"
     },
     {
         Text: "TEXT_SHOW_DEL",
@@ -271,7 +271,7 @@ class ModLanguage {
         id: "Anti Blur",
         ja: "アンチディザ",
         ko: "안티 디더",
-        vi: "Chống làm mờ nhân vật"
+        vi: "KhôngKhông làm mờ nhân vật"
     },
     {
         Text: "TEXT_SET_DELAY_LEFT",
@@ -371,7 +371,7 @@ class ModLanguage {
         id: "Pergi",
         ja: "行く",
         ko: "가다",
-        vi: "Đi"
+        vi: "Bắt đầuđầu"
     },
     {
         Text: "TEXT_AUTO_MODE",
@@ -461,7 +461,7 @@ class ModLanguage {
         id: "Visual",
         ja: "ビジュアル",
         ko: "시각적",
-        vi: "Thị giác"
+        vi: "Cảnh vật"
     },
     {
         Text: "TEXT_HIDE_HUD",
@@ -501,7 +501,7 @@ class ModLanguage {
         id: "Hanya Kebencian",
         ja: "まさにアグレッシブ",
         ko: "그냥 공격적",
-        vi: "Chỉ hung hăng"
+        vi: "Chỉ quái hung hăng"
     },
     {
         Text: "TEXT_INFINITY",
@@ -551,7 +551,7 @@ class ModLanguage {
         id: "Penambangan Otomatis [Num1]",
         ja: "自動マイニング [Num1]",
         ko: "자동 채굴 [Num1]",
-        vi: "Khai thác tự động"
+        vi: "Tự động phá khoáng sảnsản"
     },
     {
         Text: "TEXT_DISCLAIMER",
@@ -581,7 +581,7 @@ class ModLanguage {
         id: "Aura Pembunuh Baru",
         ja: "新しいキルオーラ",
         ko: "새로운 킬 오라",
-        vi: "Tàn Sát Phiên Bản Mới"
+        vi: "Tàn sát phiên bản mới"
     },
     {
         Text: "TEXT_WORLD_SPEED",
@@ -591,7 +591,7 @@ class ModLanguage {
         id: "Kecepatan Dunia",
         ja: "世界スピード",
         ko: "세계 속도",
-        vi: "Tốc Độ Thế Giới"
+        vi: "Tốc độ thế giới"
     },
     {
         Text: "TEXT_KILL_ANIMAL",
@@ -601,7 +601,7 @@ class ModLanguage {
         id: "Bunuh Hewan",
         ja: "動物を殺す",
         ko: "동물을 죽이다",
-        vi: "Giết Động Vật"
+        vi: "Giết động vvật"
     },
     {
         Text: "TEXT_SAVE_CONFIG",
@@ -651,7 +651,7 @@ class ModLanguage {
         id: "Tampilkan FPS",
         ja: "FPSを表示",
         ko: "FPS 표시",
-        vi: "Chương FPS"
+        vi: "Hiên FPS"
     },
     {
         Text: "TEXT_FPS_UNLOCKER",
@@ -781,7 +781,7 @@ class ModLanguage {
         id: "Vakum Koleksi",
         ja: "収集真空",
         ko: "수집 진공",
-        vi: "Thu thập chân không"
+        vi: "Gom vật thu thập"
     },
     {
         Text: "TEXT_MOB_VACUUM",
@@ -791,7 +791,7 @@ class ModLanguage {
         id: "Vakum Musuh",
         ja: "モンスターバキューム",
         ko: "몬스터 진공 청소기",
-        vi: "Máy hút bụi quái vật"
+        vi: "Gom quái"
     },
     {
         Text: "HEADING_FILTER",
@@ -811,7 +811,7 @@ class ModLanguage {
         id: "Cerah",
         ja: "SUNNY",
         ko: "밝은",
-        vi: "Sáng"
+        vi: "NắngNắng"
     },
     {
         Text: "TEXT_CLOUDY",
@@ -831,7 +831,7 @@ class ModLanguage {
         id: "Hujan Badai",
         ja: "雷雨",
         ko: "뇌우",
-        vi: "Dông"
+        vi: "GiGiông"
     },
     {
         Text: "TEXT_SNOW",
@@ -851,7 +851,7 @@ class ModLanguage {
         id: "Hujan",
         ja: "雨",
         ko: "비",
-        vi: "Cơn mưa"
+        vi: "MMưa"
     },
     {
         Text: "TEXT_ROCK",
@@ -901,7 +901,7 @@ class ModLanguage {
         id: "Lewati Cerita",
         ja: "プロットのスキップ",
         ko: "스토리 건너뛰기",
-        vi: "Bỏ qua câu chuyện"
+        vi: "Bỏ qua hội thoại"
     },
     {
         Text: "TEXT_AUTO_PUZZLE",
@@ -911,7 +911,7 @@ class ModLanguage {
         id: "Pemecahan Teka-teki Otomatis",
         ja: "Auto Puzzle",
         ko: "자동 퍼즐 풀기",
-        vi: "Tự động giải câu đố"
+        vi: "Tự động giải đố"
     },
 ];
 
